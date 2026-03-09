@@ -1,4 +1,4 @@
-White Album 2 Improvement Patch is now complete.
+White Album 2 restoration for mini after story too.
 
 This patch is designed for the English-patched version of White Album 2 and also includes support for the Mini Story content.
 
