@@ -1,8 +1,8 @@
 # White Album 2 — Visual Restoration Patch
 
-Patch visual untuk **White Album 2** versi bahasa Inggris, termasuk konten **Mini After Story**.
+Patch visual untuk **White Album 2 Extended** versi bahasa Inggris, termasuk konten **Mini After Story**.
 
-Tujuannya simpel: nyamain tampilan visual versi CC (Closing Chapter) ke versi Extended/Jepang aslinya — tanpa menyentuh script atau terjemahan sama sekali.
+Tujuannya simpel: ngembaliin beberapa elemen visual ke tampilan versi Jepang aslinya — tanpa menyentuh script atau terjemahan sama sekali.
 
 ---
 
@@ -11,7 +11,7 @@ Tujuannya simpel: nyamain tampilan visual versi CC (Closing Chapter) ke versi Ex
 | Before | After |
 |:---:|:---:|
 | ![Before](https://i.imgur.com/5a5xyRM.jpeg) | ![After](https://i.imgur.com/tk8abTG.jpeg) |
-| *Versi English patch (CC)* | *Setelah patch diaplikasikan* |
+| *Sebelum patch* | *Setelah patch diaplikasikan* |
 
 ---
 
@@ -33,5 +33,5 @@ Tujuannya simpel: nyamain tampilan visual versi CC (Closing Chapter) ke versi Ex
 
 ## Kompatibilitas
 
-- White Album 2 CC versi bahasa Inggris (English patch)
+- White Album 2 Extended versi bahasa Inggris (English patch)
 - Termasuk konten Mini After Story
