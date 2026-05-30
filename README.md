@@ -1,5 +1,37 @@
-White Album 2 restoration for mini after story too.
+# White Album 2 — Visual Restoration Patch
 
-This patch is designed for the English-patched version of White Album 2 and also includes support for the Mini Story content.
+Patch visual untuk **White Album 2** versi bahasa Inggris, termasuk konten **Mini After Story**.
 
-The purpose of this patch is to adjust several visual elements to better match the presentation of the Extended version, while keeping the English script and translation unchanged.
+Tujuannya simpel: nyamain tampilan visual versi CC (Closing Chapter) ke versi Extended/Jepang aslinya — tanpa menyentuh script atau terjemahan sama sekali.
+
+---
+
+## Before / After
+
+| Before | After |
+|:---:|:---:|
+| ![Before](https://i.imgur.com/5a5xyRM.jpeg) | ![After](https://i.imgur.com/tk8abTG.jpeg) |
+| *Versi English patch (CC)* | *Setelah patch diaplikasikan* |
+
+---
+
+## Apa yang Diubah
+
+- **Textbox / dialogue window** dikembalikan ke versi Extended atau versi Jepang asli tanpa modifikasi
+- Elemen visual lainnya disesuaikan agar konsisten dengan presentasi versi Extended
+- Script dan terjemahan bahasa Inggris **tidak diubah sama sekali**
+
+---
+
+## Download
+
+> Klik tab **Releases** di halaman ini untuk download — tersedia dua versi:
+> - **Mini After Story** — untuk yang main versi CC dengan konten mini story
+> - **Original Extended** — untuk yang main versi Extended
+
+---
+
+## Kompatibilitas
+
+- White Album 2 CC versi bahasa Inggris (English patch)
+- Termasuk konten Mini After Story
