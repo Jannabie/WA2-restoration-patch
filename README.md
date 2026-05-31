@@ -2,7 +2,6 @@
 
 Patch visual untuk **White Album 2 Extended** versi bahasa Inggris, termasuk konten **Mini After Story**.
 
-Tujuannya simpel: ngembaliin beberapa elemen visual ke tampilan versi Jepang aslinya — tanpa menyentuh script atau terjemahan sama sekali.
 
 ---
 
