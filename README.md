@@ -14,7 +14,7 @@ Patch visual untuk **White Album 2 Extended** versi bahasa Inggris, termasuk kon
 
 ---
 
-## Apa yang Diubah
+## Apa yang Diubah?
 
 - **Textbox / dialogue window** dikembalikan ke versi Extended atau versi Jepang asli tanpa modifikasi
 - Elemen visual lainnya disesuaikan agar konsisten dengan presentasi versi Extended
